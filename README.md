@@ -22,5 +22,5 @@ This is my default setup for starting a React app with Apollo Client.
 
 ## License
 
-This project is licensed under the MIT license, Copyright (c) 2019 Can Sahin.
+This project is licensed under the MIT license, Copyright (c) 2020 Nick Monaco.
 For more information see `LICENSE.md`.
